@@ -1,0 +1,15 @@
+{
+  "name": "html-sample-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -p 4000 -a localhost"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@airin-ai/prebuilt-ui": "^1.0.0-93e0d98e"
+  }
+}
